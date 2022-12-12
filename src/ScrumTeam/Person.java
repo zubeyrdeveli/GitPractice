@@ -6,5 +6,7 @@ public class Person {
 
         System.out.println("Hello World!");
 
+        System.out.println("Group 12");
+
     }
 }
