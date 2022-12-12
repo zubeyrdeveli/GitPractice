@@ -1,0 +1,17 @@
+Version Control system is not interested in folders.
+It Checks only files
+
+
+Next day FIRST THING TO DO is update your project as there might be some changes and create your branch
+Go to your gitHub account,
+then click on your profile,
+then go to developer options,
+then you can create tokens,
+https://github.com/settings/tokens
+you can use the url above to reach the page for the token.
+10.12.2022
+Access Token
+"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"
+
+to protect your master branch
+you can create a branch rule by going to the settings of your project
