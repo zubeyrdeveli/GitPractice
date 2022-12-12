@@ -4,10 +4,14 @@ public class Person {
 
     public static void main(String[] args) {
 
-        String name;
-        String gender;
+        System.out.println("Hello World!");
 
+        System.out.println("Group 12");
 
+        // work 1
+        // work 1
+        // work 1
+        // work 1
 
     }
 }
