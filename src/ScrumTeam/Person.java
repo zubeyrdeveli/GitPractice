@@ -12,6 +12,10 @@ public class Person {
         this.gender = gender;
     }
 
+    public static void main(String[] args) {
+
+    }
+
 
 }
 /*
